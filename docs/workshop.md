@@ -39,6 +39,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 **(GANTI JADWAL)**
 ## Jadwal Workshop
+
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
