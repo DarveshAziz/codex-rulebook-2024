@@ -10,7 +10,7 @@ CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga
 
 ## Table of Contents
 
-- [Codex 2023](#codex-2023)
+- [Codex 2024](#codex-2024)
   - [Table of Contents](#table-of-contents)
   - [What Will Be Held?](#what-will-be-held)
   - [Event Details](#event-details)
