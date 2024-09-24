@@ -1,5 +1,5 @@
 ---
-title: Codex 2023
+title: Codex 2024
 layout: home
 nav_order: 1
 ---
