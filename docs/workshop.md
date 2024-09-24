@@ -37,8 +37,8 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
-## Jadwal Workshop
 **(GANTI JADWAL)**
+## Jadwal Workshop
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
