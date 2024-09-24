@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Codex 2023
+# Codex 2024
 
 CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga di Filkom UB, yaitu [BCC](https://www.instagram.com/bccfilkom) dan [POROS](https://www.instagram.com/porosfilkom/). Acara ini ditujukan untuk memperkenalkan  dan mempersiapkan mahasiswa Filkom UB untuk lomba bidang pemrograman (_competitive programming_) dan keamanan siber (_capture the flag_).
 
