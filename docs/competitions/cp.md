@@ -5,13 +5,13 @@ parent: Competitions
 nav_order: 1
 ---
 
-# Competitive Programming Codex 2023
+# Competitive Programming Codex 2024
 
 Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan dan nalar peserta dalam menyelesaikan berbagai permasalahan komputasional yang diberikan. Peserta dituntut untuk memecahkan persoalan tersebut dalam kurun waktu tertentu dan dengan metode yang seefektif dan seefisien mungkin.
 
 ## Table of Contents
 
-- [Competitive Programming Codex 2023](#competitive-programming-codex-2023)
+- [Competitive Programming Codex 2024](#competitive-programming-codex-2024)
   - [Table of Contents](#table-of-contents)
   - [Ketentuan](#ketentuan)
   - [Prosedur Pendaftaran](#prosedur-pendaftaran)
@@ -26,7 +26,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ## Ketentuan
 
-1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2021, 2022, atau 2023.
+1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2022, 2023, atau 2024.
 2. Peserta mengikuti kompetisi secara individu dan **dilarang bekerja sama dengan peserta lain**.
 3. Peserta bersedia dan wajib mengikuti seluruh rangkaian acara, prosedur, dan ketentuan perlombaan.
 4. Panitia berhak mendiskualifikasi peserta yang melakukan pelanggaran tanpa pemberitahuan sebelumnya.
@@ -35,13 +35,13 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023.
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023).
+1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023. **(GANTI JADWAL)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023). **(GANTI LINK)**
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
 ## Jadwal Perlombaan
-
+**(GANTI JADWAL)**
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 17 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
@@ -53,7 +53,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 ### Kompetisi
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
-2. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB.
+2. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB. **(GANTI JADWAL)**
 3. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan soal, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 
 ## Teknis Lomba
@@ -87,7 +87,7 @@ Peserta yang terindikasi melakukan:
 ### **Penghargaan**
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
-
+**(INI GTW)**
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
 | Juara 1             | Rp500.000 + Sertifikat |
