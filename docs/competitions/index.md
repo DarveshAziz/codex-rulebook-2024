@@ -11,6 +11,7 @@ Kompetisi Codex 2024 diadakan untuk dua bidang lomba, yaitu [_competitive progra
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang setiap bidang lomba (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
 **(INI GTW)**
+
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
 | Juara 1             | Rp500.000 + Sertifikat |
