@@ -4,13 +4,13 @@ layout: default
 nav_order: 2
 ---
 
-# Workshop Codex 2023
+# Workshop Codex 2024
 
 Codex mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang akan dikompetisikan, yaitu _competitive programming_ dan _capture the flag_ kepada mahasiswa yang tertarik terhadap bidang lomba tersebut. _Workshop_ ditujukan untuk mahasiswa Filkom UB dan akan diadakan secara _offline_ di GKM Filkom UB.
 
 ## Table of Contents
 
-- [Workshop Codex 2023](#workshop-codex-2023)
+- [Workshop Codex 2024](#workshop-codex-2024)
   - [Table of Contents](#table-of-contents)
   - [Tema Kegiatan](#tema-kegiatan)
   - [Ketentuan](#ketentuan)
@@ -32,13 +32,13 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 **Notice: Pendaftaran _workshop_ telah ditutup dikarenakan kuota telah terpenuhi. Terima kasih atas antusiasnya!**
 
-1. ~~Periode pendaftaran _workshop_ ada di tanggal 27 Oktober - 10 November 2023.~~
-2. ~~Peserta dapat mendaftar melalui URL berikut: [http://s.ub.ac.id/WorkshopCodEx2023](http://s.ub.ac.id/WorkshopCodEx2023).~~
-3. ~~Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.~~
-4. ~~Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.~~
+1. Periode pendaftaran _workshop_ ada di tanggal 27 Oktober - 10 November 2023.
+2. Peserta dapat mendaftar melalui URL berikut: [http://s.ub.ac.id/WorkshopCodEx2023](http://s.ub.ac.id/WorkshopCodEx2023). **(BUAT GFORM BARU)**
+3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
+4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
 ## Jadwal Workshop
-
+**(GANTI JADWAL)**
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
