@@ -5,13 +5,13 @@ parent: Competitions
 nav_order: 2
 ---
 
-# Capture the Flag Codex 2023
+# Capture the Flag Codex 2024
 
 Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan jaringan dan komputer serta keamanan informasi. Dalam kompetisi ini, peserta mencari dan mendeteksi lalu mengeksploitasi kelemahan dalam berbagai macam permasalahan untuk mendapatkan dan mengumpulkan flag sebanyak-banyaknya.
 
 ## Table of Contents
 
-- [Capture the Flag Codex 2023](#capture-the-flag-codex-2023)
+- [Capture the Flag Codex 2024](#capture-the-flag-codex-2024)
   - [Table of Contents](#table-of-contents)
   - [Ketentuan](#ketentuan)
   - [Prosedur Pendaftaran](#prosedur-pendaftaran)
@@ -26,7 +26,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Ketentuan
 
-1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2021, 2022, atau 2023.
+1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2022, 2023, atau 2024.
 2. Peserta mengikuti kompetisi secara individu dan dilarang bekerja sama dengan peserta lain.
 3. Peserta bersedia dan wajib mengikuti seluruh rangkaian acara, prosedur, dan ketentuan perlombaan.
 4. Panitia berhak mendiskualifikasi peserta yang melakukan pelanggaran tanpa pemberitahuan sebelumnya.
@@ -35,13 +35,13 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023.
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023).
+1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023. **(GANTI JADWAL)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023). **(GANTI LINK)**
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
 ## Jadwal Perlombaan
-
+**(GANTI JADWAL)**
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
@@ -55,9 +55,9 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
 2. Format kompetisi adalah _jeopardy_.
-3. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB.
+3. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB. **(GANTI JADWAL)**
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
-5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 18 November 2023 pukul 23:59 WIB.
+5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 18 November 2023 pukul 23:59 WIB. **(GANTI JADWAL)**
 
 ## Teknis Lomba
 
@@ -86,7 +86,7 @@ pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentua
 ### **Penghargaan**
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
-
+**(INI GTW)**
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
 | Juara 1             | Rp500.000 + Sertifikat |
@@ -95,7 +95,7 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 | Honorable Mention 1 | Rp50.000 + Sertifikat  |
 | Honorable Mention 2 | Rp50.000 + Sertifikat  |
 
-Catatan: Khusus untuk peserta angkatan 2021, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
+Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
 ## Narahubung
 
