@@ -40,8 +40,8 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
-## Jadwal Perlombaan
 **(GANTI JADWAL)**
+## Jadwal Perlombaan
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
@@ -83,10 +83,11 @@ pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentua
 4. Peserta yang menggunakan automated scanner/tools seperti _sqlmap_, _burp scanner_, dan _dirb_.
 5. Peserta yang melakukan kerusuhan selama perlombaan.
 
+**(INI GTW)**
 ### **Penghargaan**
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
-**(INI GTW)**
+
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
 | Juara 1             | Rp500.000 + Sertifikat |
