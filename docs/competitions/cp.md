@@ -36,7 +36,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 ## Prosedur Pendaftaran
 
 1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023. **(GANTI JADWAL)**
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023). **(GANTI LINK)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/QPVkcwdXwGpBQCzC9](https://forms.gle/QPVkcwdXwGpBQCzC9). **(GANTI LINK)**
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -46,15 +46,15 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 17 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
-| 11 - 17 November 2023         | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 19 November 2023              | Pengumuman        | Dilakukan secara online       |
+| 27 Oktober - 01 November 2023 | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 03 November 2023              | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
 ### Kompetisi
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
-2. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB. **(GANTI JADWAL)**
+2. Kompetisi akan dilakukan selama 7 hari dari tanggal 27 November 2024 pukul 09:00 WIB hingga 01 November 2023 pukul 21:00 WIB. **(GANTI JADWAL)**
 3. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan soal, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 
 ## Teknis Lomba
@@ -87,6 +87,7 @@ Peserta yang terindikasi melakukan:
 
 
 ### **Penghargaan**
+"Will Be Revealed Soon"
 **(INI GTW)**
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
