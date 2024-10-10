@@ -91,11 +91,11 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
-| Juara 1             | Rp500.000 + Sertifikat |
-| Juara 2             | Rp300.000 + Sertifikat |
-| Juara 3             | Rp100.000 + Sertifikat |
-| Honorable Mention 1 | Rp50.000 + Sertifikat  |
-| Honorable Mention 2 | Rp50.000 + Sertifikat  |
+| Juara 1             | will be revealed soon + Sertifikat |
+| Juara 2             | will be revealed soon + Sertifikat |
+| Juara 3             | will be revealed soon + Sertifikat |
+| Honorable Mention 1 | will be revealed soon + Sertifikat  |
+| Honorable Mention 2 | will be revealed soon + Sertifikat  |
 
 Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
