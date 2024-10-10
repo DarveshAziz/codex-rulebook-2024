@@ -35,8 +35,8 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023. **(GANTI JADWAL)**
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023). **(GANTI LINK)**
+1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 10 November 2024. **(GANTI JADWAL)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/QPVkcwdXwGpBQCzC9](https://forms.gle/QPVkcwdXwGpBQCzC9). **(GANTI LINK)**
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -85,6 +85,7 @@ pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentua
 5. Peserta yang melakukan kerusuhan selama perlombaan.
 
 ### **Penghargaan**
+"Will be Revealed Soon"
 **(INI GTW)**
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
