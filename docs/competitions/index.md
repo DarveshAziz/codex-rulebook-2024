@@ -14,11 +14,11 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang setiap bidang lomba (
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
-| Juara 1             | Rp500.000 + Sertifikat |
-| Juara 2             | Rp300.000 + Sertifikat |
-| Juara 3             | Rp100.000 + Sertifikat |
-| Honorable Mention 1 | Rp50.000 + Sertifikat  |
-| Honorable Mention 2 | Rp50.000 + Sertifikat  |
+| Juara 1             | will be revealed soon + Sertifikat |
+| Juara 2             | will be revealed soon + Sertifikat |
+| Juara 3             | will be revealed soon + Sertifikat |
+| Honorable Mention 1 | will be revealed soon + Sertifikat  |
+| Honorable Mention 2 | will be revealed soon + Sertifikat  |
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
