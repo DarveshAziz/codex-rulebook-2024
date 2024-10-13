@@ -36,7 +36,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 ## Prosedur Pendaftaran
 
 1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 10 November 2024. **(GANTI JADWAL)**
-2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/QPVkcwdXwGpBQCzC9](https://forms.gle/QPVkcwdXwGpBQCzC9). **(GANTI LINK)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/QPVkcwdXwGpBQCzC9](https://forms.gle/QPVkcwdXwGpBQCzC9). 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -86,7 +86,6 @@ pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentua
 
 ### **Penghargaan**
 "Will be Revealed Soon"
-**(INI GTW)**
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
 
@@ -104,5 +103,5 @@ Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hany
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
-- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
+- 👤[WA]: [085155280972](https://wa.me/085155280972) (Dymi)
+- 👤[WA]: [082350313476](https://wa.me/082350313476) (Nizar)
