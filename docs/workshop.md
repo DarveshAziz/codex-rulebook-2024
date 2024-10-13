@@ -33,7 +33,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 **Notice: Pendaftaran _workshop_ telah ditutup dikarenakan kuota telah terpenuhi. Terima kasih atas antusiasnya!**
 
 1. Periode pendaftaran _workshop_ ada di tanggal 27 Oktober - 10 November 2023.
-2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/i6XRUVNxpksvvEUs8](https://forms.gle/i6XRUVNxpksvvEUs8). **(BUAT GFORM BARU)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/i6XRUVNxpksvvEUs8](https://forms.gle/i6XRUVNxpksvvEUs8). 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -49,5 +49,5 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
-- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
+- 👤[WA]: [085155280972](https://wa.me/085155280972) (Dymi)
+- 👤[WA]: [082350313476](https://wa.me/082350313476) (Nizar)
