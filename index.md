@@ -48,5 +48,5 @@ Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB da
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
-- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
+- 👤[WA]: [082350313476](https://wa.me/082350313476) (Nizar)
+- 👤[WA]: [085155280972](https://wa.me/085155280972) (Dymi)
