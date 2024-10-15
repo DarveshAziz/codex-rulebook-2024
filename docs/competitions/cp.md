@@ -46,8 +46,8 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 27 Oktober - 17 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
-| 27 Oktober - 01 November 2023 | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 03 November 2023              | Pengumuman        | Dilakukan secara online       |
+| 27 Oktober - 01 November 2024 | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 03 November 2024              | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
@@ -91,19 +91,11 @@ Peserta yang terindikasi melakukan:
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
 
-| Peringkat           | Penghargaan            |
-|---------------------|------------------------|
-| Juara 1             | Rp500.000 + Sertifikat |
-| Juara 2             | Rp300.000 + Sertifikat |
-| Juara 3             | Rp100.000 + Sertifikat |
-| Honorable Mention 1 | Rp50.000 + Sertifikat  |
-| Honorable Mention 2 | Rp50.000 + Sertifikat  |
-
 Catatan: Khusus untuk peserta angkatan 2021, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
 ## Narahubung
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [085155280972](https://wa.me/085155280972) (Dymi)
-- 👤[WA]: [082350313476](https://wa.me/082350313476) (Nizar)
+- 👤[WA]: [085155280972](https://wa.me/6285155280972) (Dymi)
+- 👤[WA]: [082350313476](https://wa.me/6282350313476) (Nizar)
