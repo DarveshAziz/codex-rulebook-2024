@@ -35,8 +35,8 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023. **(GANTI JADWAL)**
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023). **(GANTI LINK)**
+1. Periode pendaftaran lomba ada di tanggal 17 Oktober - 25 Oktober 2024. **(GANTI JADWAL)**
+2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/competitioncodex24](https://s.ub.ac.id/competitioncodex24). **(GANTI LINK)**
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -45,16 +45,16 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 27 Oktober - 17 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
-| 11 - 17 November 2023         | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 19 November 2023              | Pengumuman        | Dilakukan secara online       |
+| 17 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 26 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 3 November 2024               | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
 ### Kompetisi
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
-2. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB. **(GANTI JADWAL)**
+2. Kompetisi akan dilakukan selama 7 hari dari tanggal 26 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
 3. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan soal, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 
 ## Teknis Lomba
