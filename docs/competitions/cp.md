@@ -46,7 +46,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 17 Oktober - 1 November 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
-| 26 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 27 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
 | 3 November 2024               | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
@@ -54,7 +54,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 ### Kompetisi
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
-2. Kompetisi akan dilakukan selama 7 hari dari tanggal 26 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
+2. Kompetisi akan dilakukan selama 7 hari dari tanggal 27 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
 3. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan soal, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 
 ## Teknis Lomba
