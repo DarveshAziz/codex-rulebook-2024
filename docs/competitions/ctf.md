@@ -35,20 +35,20 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 17 November 2023. **(GANTI JADWAL)**
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/CompetitionCodEx2023](https://s.ub.ac.id/CompetitionCodEx2023). **(GANTI LINK)**
+1. Periode pendaftaran lomba ada di tanggal 17 Oktober - 25 Oktober 2024. 
+2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/competitioncodex24](https://s.ub.ac.id/competitioncodex24).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
 ## Jadwal Perlombaan
-**(GANTI JADWAL)**
+
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
-| 11 - 17 November 2023         | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 17 - 18 November 2023         | Penulisan Writeup | Dilakukan secara pribadi      |
-| 19 November 2023              | Pengumuman        | Dilakukan secara online       |
+| 17 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 26 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 1 - 2 November 2024           | Penulisan Writeup | Dilakukan secara pribadi      |
+| 3 November 2024               | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
@@ -56,9 +56,9 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
 2. Format kompetisi adalah _jeopardy_.
-3. Kompetisi akan dilakukan selama 7 hari dari tanggal 11 November 2023 pukul 09:00 WIB hingga 17 November 2023 pukul 17:00 WIB. **(GANTI JADWAL)**
+3. Kompetisi akan dilakukan selama 7 hari dari tanggal 26 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
-5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 18 November 2023 pukul 23:59 WIB. **(GANTI JADWAL)**
+5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 2 November 2024 pukul 23:59 WIB. 
 
 ## Teknis Lomba
 
@@ -85,7 +85,7 @@ pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentua
 5. Peserta yang melakukan kerusuhan selama perlombaan.
 
 ### **Penghargaan**
-**(INI GTW)**
+
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
 
