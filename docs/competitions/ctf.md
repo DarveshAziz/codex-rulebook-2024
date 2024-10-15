@@ -46,7 +46,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 17 Oktober - 1 November 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
-| 26 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 27 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
 | 1 - 2 November 2024           | Penulisan Writeup | Dilakukan secara pribadi      |
 | 3 November 2024               | Pengumuman        | Dilakukan secara online       |
 
@@ -56,7 +56,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
 2. Format kompetisi adalah _jeopardy_.
-3. Kompetisi akan dilakukan selama 7 hari dari tanggal 26 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
+3. Kompetisi akan dilakukan selama 7 hari dari tanggal 27 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 2 November 2024 pukul 23:59 WIB. 
 
