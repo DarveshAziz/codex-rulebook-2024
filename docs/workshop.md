@@ -49,5 +49,5 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [085155280972](https://wa.me/085155280972) (Dymi)
-- 👤[WA]: [082350313476](https://wa.me/082350313476) (Nizar)
+- 👤[WA]: [085155280972](https://wa.me/6285155280972) (Dymi)
+- 👤[WA]: [082350313476](https://wa.me/6282350313476) (Nizar)
