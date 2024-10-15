@@ -36,7 +36,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
 ## Jadwal Workshop
-**(GANTI JADWAL)**
+
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
