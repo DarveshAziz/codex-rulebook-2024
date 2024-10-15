@@ -41,7 +41,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
 | 17 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
-| 25 Oktober 2024               | Workshop          | GKM Filkom 3.1 dan 4.1        |
+| 25 Oktober 2024               | Workshop          | GKM Filkom 4.1 dan 4.2        |
 
 ## Narahubung
 
