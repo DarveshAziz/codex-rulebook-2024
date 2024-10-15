@@ -35,7 +35,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 17 Oktober - 25 Oktober 2024. 
+1. Periode pendaftaran lomba ada di tanggal 17 Oktober - 1 November 2024. 
 2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/competitioncodex24](https://s.ub.ac.id/competitioncodex24).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -45,7 +45,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 17 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 17 Oktober - 1 November 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
 | 26 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
 | 1 - 2 November 2024           | Penulisan Writeup | Dilakukan secara pribadi      |
 | 3 November 2024               | Pengumuman        | Dilakukan secara online       |
