@@ -35,8 +35,8 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 27 Oktober - 10 November 2024. **(GANTI JADWAL)**
-2. Peserta dapat mendaftar melalui URL berikut: [https://forms.gle/QPVkcwdXwGpBQCzC9](https://forms.gle/QPVkcwdXwGpBQCzC9). 
+1. Periode pendaftaran lomba ada di tanggal 17 - 25 Oktober 2024. 
+2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/competitioncodex24](https://s.ub.ac.id/competitioncodex24). 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -45,7 +45,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 27 Oktober - 10 November 2023 | Pendaftaran       | Dilakukan pada URL di atas    |
+| 17 - 25 Oktober 2024          | Pendaftaran       | Dilakukan pada URL di atas    |
 | 11 - 17 November 2023         | Pelaksanaan Lomba | Dilakukan pada platform lomba |
 | 17 - 18 November 2023         | Penulisan Writeup | Dilakukan secara pribadi      |
 | 3 November 2024               | Pengumuman        | Dilakukan secara online       |
@@ -89,7 +89,7 @@ pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentua
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
 
-Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
+Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2022 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
 ## Narahubung
 
