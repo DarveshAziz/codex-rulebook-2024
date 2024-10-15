@@ -23,7 +23,7 @@ CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga
 Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2024.
 
 1. _Workshop_, yaitu kegiatan yang akan mempersiapkan mahasiswa untuk mengikuti kompetisi _competitive programming_ dan _capture the flag_. _Workshop_ ini akan membahas tentang gambaran umum lomba, materi lomba, dan _hands-on_ terhadap _challenges_ dan pembahasannya.
-2. _Competition_, yaitu perlombaan di bidang _competitive programming_ dan _capture the flag_. Peserta _workshop_ dapat mengimplementasikan ilmu yang didapat dengan berkompetisi dalam perlombaan ini dan memenangkan total hadiah jutaan rupiah.
+2. _Competition_, yaitu perlombaan di bidang _competitive programming_ dan _capture the flag_. Peserta _workshop_ dapat mengimplementasikan ilmu yang didapat dengan berkompetisi dalam perlombaan ini dan memenangkan hadiah yang bakal direveal nanti.
 
 ## Event Details
 
@@ -42,7 +42,7 @@ Kami berharap dengan mengadakan _Codex_, minat mahasiswa Filkom UB terhadap pemr
 
 ## Last Words
 
-Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ Codex untuk belajar mengenai hal tersebut dan juga ikut kompetisi Codex untuk memenangkan total hadiah jutaan rupiah! Selain itu, bagi kalian para _sertif hunter_ juga wajib ikut karena seluruh peserta _workshop_ dan _competition_ pasti akan dapat sertifikat!
+Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ Codex untuk belajar mengenai hal tersebut dan juga ikut kompetisi Codex untuk memenangkan hadiah yang bakal direveal nanti! Selain itu, bagi kalian para _sertif hunter_ juga wajib ikut karena seluruh peserta _workshop_ dan _competition_ pasti akan dapat sertifikat!
 
 ## Any Questions?
 
