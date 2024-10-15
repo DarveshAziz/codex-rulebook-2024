@@ -103,5 +103,5 @@ Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hany
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
-- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
+- 👤[WA]: [082350313476](https://wa.me/+6282350313476) (Nizar)
+- 👤[WA]: [085155280972](https://wa.me/+6285155280972) (Dymi)
