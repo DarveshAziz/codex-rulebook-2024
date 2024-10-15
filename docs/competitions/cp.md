@@ -89,7 +89,7 @@ Peserta yang terindikasi melakukan:
 ### **Penghargaan**
 
 
-Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan dana pembinaan sesuai peringkat juara.
+Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan hadiah rahasia sesuai peringkat juara.
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
@@ -99,7 +99,7 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 | Honorable Mention 1 | will be revealed soon + Sertifikat  |
 | Honorable Mention 2 | will be revealed soon + Sertifikat  |
 
-Catatan: Khusus untuk peserta angkatan 2021, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2021 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
+Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2022 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
 ## Narahubung
 
