@@ -30,7 +30,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran _workshop_ ada di tanggal 17 Oktober - 25 Oktober 2024.
+1. Periode pendaftaran _workshop_ ada di tanggal 18 Oktober - 25 Oktober 2024.
 2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/workshopcodex24](https://s.ub.ac.id/workshopcodex24).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -40,7 +40,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 17 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 18 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
 | 25 Oktober 2024               | Workshop          | GKM Filkom 4.1 dan 4.2        |
 
 ## Narahubung
