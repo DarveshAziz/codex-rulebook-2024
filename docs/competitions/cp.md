@@ -93,11 +93,11 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
-| Juara 1             | will be revealed soon + Sertifikat |
-| Juara 2             | will be revealed soon + Sertifikat |
-| Juara 3             | will be revealed soon + Sertifikat |
-| Honorable Mention 1 | will be revealed soon + Sertifikat  |
-| Honorable Mention 2 | will be revealed soon + Sertifikat  |
+| Juara 1             | Tumblr, Totebag, Ganci, Vandel + Sertifikat |
+| Juara 2             | Totebag, Ganci, Vandel + Sertifikat |
+| Juara 3             | Totebag, Ganci, Vandel + Sertifikat |
+| Honorable Mention 1 | Sertifikat |
+| Honorable Mention 2 | Sertifikat |
 
 Catatan: Khusus untuk peserta angkatan 2022, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2022 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
